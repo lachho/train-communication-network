@@ -1,7 +1,6 @@
 Carriage Simulator
 
-This program was written by Lachlan Ho (z5361811)
-on 19/4/23
+This program was written 19/4/23
 
 Simulates a live rail Operation centre.
 The program continuously takes in set commands from the user to replicate 
